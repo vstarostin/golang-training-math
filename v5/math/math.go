@@ -3,5 +3,5 @@ package math
 import "fmt"
 
 func Greeting(name string) {
-	fmt.Printf("Hello %v!\n", name)
+	fmt.Printf("Good morning %v!\n", name)
 }
