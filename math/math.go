@@ -1,5 +1,6 @@
 package math
 
 func Sum(a, b int) int {
-	return a + b
+	sum := a + b
+	return sum
 }
