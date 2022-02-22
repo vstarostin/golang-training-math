@@ -1,3 +1,3 @@
-module github.com/vstarostin/golang-trainig-math
+module github.com/vstarostin/golang-training-math
 
 go 1.13
